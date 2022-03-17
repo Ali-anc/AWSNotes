@@ -1,3 +1,2 @@
 # AWSNotes
-The following repository contains content releated to AWS  
-**test**
+> The following repository contains content releated to AWS  

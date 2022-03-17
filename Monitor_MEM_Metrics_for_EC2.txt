@@ -31,7 +31,7 @@ Step 3) Login to the EC2 instance and Install the agent and configure the metric
    https://docs.aws.amazon.com/AmazonCloudWatch/latest/monitoring/download-cloudwatch-agent-commandline.html
 
 > wget https://s3.amazonaws.com/amazoncloudwatch-agent/redhat/amd64/latest/amazon-cloudwatch-agent.rpm
- `sudo rpm -U ./amazon-cloudwatch-agent.rpm`
+ **sudo rpm -U ./amazon-cloudwatch-agent.rpm** 
 
 Create and add the following content. The agent to collect memory usage data in percentage format every 60 seconds.
 With "InstanceId" appended, you will receive a recommendation from AWS based on MEM usage.

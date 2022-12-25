@@ -1,2 +1,2 @@
 # AWSNotes
-> The following repository contains content releated to AWS  
+> The following repository contains content related to AWS  
